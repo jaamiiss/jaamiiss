@@ -1,5 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on a lot of things
 
+🌱 I’m currently learning Three
 <!--
 **jaamiiss/jaamiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
