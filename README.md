@@ -4,7 +4,7 @@
  - RD
  - PFL
 
-🌱 I’m currently learning Three
+🌱 I’m currently learning Three, htmx
 🌱 Go is interesting
 <!--
 **jaamiiss/jaamiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
