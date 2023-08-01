@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hello, there 👋
+   ```The angel from my nightmare```
+
 🔭 I’m currently working on a lot of things
- - TBL
+   
+
+ - **TBLX** <br>
+![](https://geps.dev/progress/45)
+ - GDGC
  - RD
  - PFL
+- 🌱 Currently learning Three, htmx
+- ⚡ Go is interesting
 
-🌱 I’m currently learning Three, htmx
-🌱 Go is interesting
 <!--
 **jaamiiss/jaamiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
