@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/jaamiiss"><img src="https://api.daily.dev/devcards/aaf70f14068d4146ae030196a6b677ff.png?r=pd4" width="400" alt="James Magallanes's Dev Card"/></a>
+<a href="https://app.daily.dev/jaamiiss"><img src="https://api.daily.dev/devcards/aaf70f14068d4146ae030196a6b677ff.png?r=dk9" width="400" alt="James Magallanes's Dev Card"/></a>
 <br/>
 <img src="https://social-img.staticblitz.com/viteconf2023-tickets/jaamiiss/viteconf?v=4" width="400"/>
