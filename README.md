@@ -6,10 +6,10 @@
 
  - **TBLX** <br>
 ![](https://geps.dev/progress/65)
- - GDGC
+ - GDGC <br>
 ![](https://geps.dev/progress/5)
  - RD
- - PFL
+ - PFL <br>
 ![](https://geps.dev/progress/7)
 - 🌱 Currently learning Three, htmx
 - ⚡ Go is interesting
