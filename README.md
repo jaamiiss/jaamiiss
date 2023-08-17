@@ -7,8 +7,10 @@
  - **TBLX** <br>
 ![](https://geps.dev/progress/65)
  - GDGC
+![](https://geps.dev/progress/5)
  - RD
  - PFL
+![](https://geps.dev/progress/7)
 - 🌱 Currently learning Three, htmx
 - ⚡ Go is interesting
 
