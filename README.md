@@ -5,12 +5,12 @@
    
 
  - **TBLX** <br>
-![](https://geps.dev/progress/65)
+![](https://geps.dev/progress/70)
  - GDGC <br>
-![](https://geps.dev/progress/5)
+![](https://geps.dev/progress/10)
  - RD
  - PFL <br>
-![](https://geps.dev/progress/7)
+![](https://geps.dev/progress/10)
 - 🌱 Currently learning Three, htmx
 - ⚡ Go is interesting
 
@@ -28,7 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github Stats
 
+<img alt="James' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamiiss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+### Daily Dev
 <a href="https://app.daily.dev/jaamiiss"><img src="https://api.daily.dev/devcards/aaf70f14068d4146ae030196a6b677ff.png?r=dk9" width="400" alt="James Magallanes's Dev Card"/></a>
 <br/>
+
+### Events
 <img src="https://social-img.staticblitz.com/viteconf2023-tickets/jaamiiss/viteconf?v=4" width="400"/>
