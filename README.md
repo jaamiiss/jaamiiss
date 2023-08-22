@@ -16,7 +16,7 @@
 ![](https://geps.dev/progress/10)
  - RD
  - PFL <br>
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/40)
 - 🌱 Currently learning Three, htmx
 - ⚡ Go is interesting
 
