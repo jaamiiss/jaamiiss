@@ -1,6 +1,13 @@
-### Hello, there 👋
+### Hello 👋, there 
    ```The angel from my nightmare```
 
+### Tech Stack
+[![Stack](https://skillicons.dev/icons?i=js,html,css,webflow,wordpress,bootstrap,tailwind,php,ts,express,nodejs,nextjs,svelte,ps,xd,figma,mysql,mongodb,firebase,supabase,github,cloudflare,vercel,netlify,vscode)](https://skillicons.dev)
+
+### Github Stats
+<img alt="James' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamiiss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+##
 🔭 I’m currently working on a lot of things
    
 
@@ -28,9 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Github Stats
-
-<img alt="James' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamiiss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 ### Daily Dev
 <a href="https://app.daily.dev/jaamiiss"><img src="https://api.daily.dev/devcards/aaf70f14068d4146ae030196a6b677ff.png?r=dk9" width="400" alt="James Magallanes's Dev Card"/></a>
@@ -39,5 +43,5 @@ Here are some ideas to get you started:
 ### Events
 <img src="https://social-img.staticblitz.com/viteconf2023-tickets/jaamiiss/viteconf?v=4" width="400"/>
 
-
+### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1x3pyumlgqofzanfa6509iqfn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/jaamiiss/)
