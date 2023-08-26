@@ -4,7 +4,7 @@
 ### Tech Stack
 [![Stack](https://skillicons.dev/icons?i=js,html,css,webflow,wordpress,bootstrap,tailwind,php,ts,express,nodejs,nextjs,svelte,ps,xd,figma,mysql,mongodb,firebase,supabase,github,cloudflare,vercel,netlify,vscode)](https://skillicons.dev)
 
-<img alt="James' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamiiss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=333333&icon_color=F8D866&text_color=333333" height="200px"/></a>
+<img alt="James' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamiiss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=50C878&icon_color=F8D866&text_color=50C878" height="200px"/></a>
 
 ##
 🔭 I’m currently working on a lot of things
